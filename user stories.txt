@@ -1,0 +1,18 @@
+• Zadání výchozí polohy: Jako uživatel chci začít cestu ze své aktuální polohy, případně minulé trasy, abych mohl co nejrychleji zadat start své cesty. 
+
+• Prokázání se jízdenkou: Jako cestující chci po spuštění aplikace co nejdříve vidět platný QR kód, abych se mohl bez stresu a prodlev prokázat při kontrole revizorem. 
+
+• Ověření platnosti dokladu: Jako uživatel chci co nejdříve vidět přesný zbývající čas platnosti mého kupónu nebo jízdenky, abych si mohl včas zajistit nový doklad a vyhnul se pokutě.
+ 
+• Sledování zpoždění a výluk: Jako cestující chci ve výsledcích vyhledávání přímo u daného spoje vidět případná zpoždění, abych mohl včas zareagovat a případně zvolit alternativní trasu. 
+
+• Platba parkování: Jako řidič chci mít možnost rychle vybrat nejbližší ulici, vybrat uložené auto a zaplatit parkovné přes Apple Pay, abych nemusel fyzicky hledat parkovací automat. 
+
+• Nákup jízdenky: Jako cestující chci mít možnost intuitivně vybrat typ jízdenky z nabídky a jedním kliknutím ji zakoupit, abych neztrácel čas složitým proklikáváním. 
+
+• Správa vozidel: Jako řidič chci mít možnost jednoduše přidat a uložit údaje o svém autě (RZ), abych je nemusel při každém placení parkovného zadávat znovu. 
+
+• Plánování s mezizastávkou: Jako uživatel chci do vyhledávače tras přidat volitelnou mezizastávku, abych systém donutil najít trasu přes konkrétní místo bez nutnosti hledat dva oddělené spoje.
+
+
+expo go
